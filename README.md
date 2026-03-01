@@ -41,14 +41,23 @@ coffee-leaf-disease-hadtf/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+
   Installation (Run Locally)
 1️ Clone Repository
+
 git clone https://github.com/vaishnavmohan1129/coffee-leaf-disease-hadtf.git
 cd coffee-leaf-disease-hadtf
+
 2️ Create Virtual Environment
+
 python -m venv venv
 venv\Scripts\activate   # Windows
+
 3️ Install Dependencies
+
 pip install -r requirements.txt
+
 4️ Run Application
+
 streamlit run app.py
