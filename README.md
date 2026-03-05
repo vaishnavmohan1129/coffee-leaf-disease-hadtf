@@ -1,4 +1,7 @@
 # Coffee Leaf Disease Detection using HADTF
+
+Public URL : https://coffee-leaf-disease-hadtf.streamlit.app/
+
 This project is a deep learning web application that detects diseases in coffee leaves using a Hybrid Attention-based Dual Transformer Framework (HADTF) model.
 
 The model combines:
